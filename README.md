@@ -1,6 +1,6 @@
 # libcint: An Analytical Gaussian Integral Library
 
-**libcint** is an open-source C library for evaluating analytical integrals over Gaussian-type orbitals (GTOs), the basis functions used in most molecular electronic-structure calculations. It was written by Qiming Sun and collaborators, originally to serve the PySCF quantum chemistry framework, and it is distributed on GitHub under a permissive BSD-style license. Its main purpose is to compute integral batches quickly and accurately, leaving higher-level algorithms such as Hartree-Fock, density functional theory, and coupled cluster to the calling code.
+**libcint** is an open-source C library for evaluating analytical integrals over Gaussian-type orbitals (GTOs), the basis functions used in most molecular electronic-structure calculations. It was written by Qiming Sun and collaborators, originally to serve the PySCF quantum chemistry framework, and it is distributed on GitHub under a permissive BSD-style license. Its main purpose is to compute integral batches quickly and accurately, leaving higher-level algorithms such as Hartree-Fock, density functional theory, and coupled cluster to the calling code. [GitHub repository...](https://github.com/sunqm/libcint)
 
 ## Scope of the Integrals
 
