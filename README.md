@@ -192,3 +192,8 @@ libcint must be installed (for example, built from the GitHub repository with CM
 ## Extending the Demo
 
 Natural next steps are to add a nuclear attraction integral with `cint1e_nuc_sph` (which needs the nuclear charges in `atm`), a kinetic energy integral with `cint1e_kin_sph`, or p-type shells by setting `ANG_OF` to 1 and rebuilding the buffers with the corresponding size.
+
+
+# Bibliography
+
++ Q. Sun, **Libcint: An efficient general integral library for Gaussian basis functions**, [Journal of Computational Chemistry 36, 1664-1671 (2015)](http://dx.doi.org/10.1002/jcc.23981)
